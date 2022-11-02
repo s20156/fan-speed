@@ -1,0 +1,5 @@
+numpy
+scikit-fuzzy
+matplotlib
+click
+psutil
